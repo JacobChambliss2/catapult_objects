@@ -2,3 +2,8 @@ html {
   height: 100%;
   width: 100%;
 }
+.cat-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
